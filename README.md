@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=softedge&color=0:0f2027,100:203a43&height=200&section=header&text=Alif%20Fauzan&fontSize=45&fontColor=ffffff&animation=twirl" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Alif%20Fauzan&fontSize=40" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlifFauzan21&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
