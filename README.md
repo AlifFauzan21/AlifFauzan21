@@ -8,14 +8,13 @@
 </p>
 
 <p align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AlifFauzan21&style=flat-square&color=blue)
-
+  <img src="https://komarev.com/ghpvc/?username=AlifFauzan21&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👋 About Me
+
 🎓 D4 Telecommunication Engineering Student (Indonesia)  
 📡 Passionate about designing, implementing, and analyzing real-world communication systems  
 🤖 Programmer @ **ARCoS Robotics Community** (KRTMI Research Team)
@@ -25,17 +24,39 @@ I enjoy working close to the system layer — from **wireless networks and SDR**
 ---
 
 ## 🔭 Current Focus
+
 - 📡 **5G Network Slicing**  
   _Open5GS + srsRAN + USRP (end-to-end setup & testing)_
-
 - 📊 **Frequency & Network Monitoring Dashboard**  
   _GNU Radio + Flask_
-
 - 🤖 **Robotics Software Development**  
   _ARCoS / KRTMI competition projects_
-
 - 📈 **Machine Learning Experiments**  
   _Clustering, regression, and prediction tasks_
+
+---
+
+## 🧩 5G System Architecture (Lab Setup)
+```mermaid
+flowchart LR
+  UE["UE / Test Device"]
+  gNB["gNB (srsRAN)"]
+  AMF["AMF"]
+  SMF["SMF"]
+  UPF["UPF"]
+  DN["Data Network (Internet)"]
+  
+  UE -->|"NR radio"| gNB
+  gNB -->|"NG-C"| AMF
+  gNB -->|"NG-U"| UPF
+  AMF --> SMF
+  SMF --> UPF
+  UPF --> DN
+```
+
+**Description:**  
+This diagram represents an end-to-end 5G standalone (SA) lab architecture using **srsRAN** as the gNB and **Open5GS** as the 5G Core Network.  
+The setup enables UE registration, session establishment, and data connectivity to an external data network for testing and performance evaluation.
 
 ---
 
@@ -64,26 +85,29 @@ I enjoy working close to the system layer — from **wireless networks and SDR**
 ---
 
 ## 📌 Selected Projects
-- 🔗 **Student Score Prediction (ML)**  
-  https://github.com/AlifFauzan21/Student-Score-Prediction-ML
 
+- 🔗 **Student Score Prediction (ML)**  
+  [https://github.com/AlifFauzan21/Student-Score-Prediction-ML](https://github.com/AlifFauzan21/Student-Score-Prediction-ML)
+  
 - 🔗 **Beverage Customer Clustering & Prediction**  
-  https://github.com/AlifFauzan21/Beverage-Customer-Clustering-and-Prediction
+  [https://github.com/AlifFauzan21/Beverage-Customer-Clustering-and-Prediction](https://github.com/AlifFauzan21/Beverage-Customer-Clustering-and-Prediction)
 
 > _Pinned repositories are kept focused on data, system, and engineering-related work._
 
 ---
+
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlifFauzan21&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlifFauzan21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## 📫 Contact
+
 ✉️ Email: **fauzanalif738@gmail.com**  
-🔗 LinkedIn: https://linkedin.com/in/alif-fauzan-9a97b0277
+🔗 LinkedIn: [https://linkedin.com/in/alif-fauzan-9a97b0277](https://linkedin.com/in/alif-fauzan-9a97b0277)
 
 ---
 
