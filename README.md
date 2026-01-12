@@ -3,16 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlifFauzan21&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <strong>Telecommunication Engineering Student | System & Network Enthusiast</strong><br/>
   5G • SDR • IoT • Machine Learning
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlifFauzan21&style=flat-square&color=blue" alt="Profile Views" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=AlifFauzan21&style=flat-square&color=blue)
+
 </p>
 
 ---
@@ -75,10 +73,10 @@ I enjoy working close to the system layer — from **wireless networks and SDR**
 > _Pinned repositories are kept focused on data, system, and engineering-related work._
 
 ---
-
 ## 📊 GitHub Overview
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlifFauzan21&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlifFauzan21&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
